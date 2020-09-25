@@ -1,0 +1,17 @@
+/*
+reglas
+    selectores
+        declaraciones
+            propiedades
+            valores
+*/
+/*selector de etiqueta, estilo al tag del html*/
+header{
+    background-color: pink;
+    color: red;
+}
+/*selector descendente es un elemento hijo de otro elemento
+body header div nav ol li a */
+/*selector de clase se identifica con .link*/
+/*selector de id se identifica con #portafolio*/
+/*se pueden convinar los tipos de selectores, tambien hay selectores de atributos*/
