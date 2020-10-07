@@ -1,17 +1,18 @@
-/*
-reglas
-    selectores
-        declaraciones
-            propiedades
-            valores
-*/
-/*selector de etiqueta, estilo al tag del html*/
-header{
-    background-color: pink;
-    color: red;
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    
 }
-/*selector descendente es un elemento hijo de otro elemento
-body header div nav ol li a */
-/*selector de clase se identifica con .link*/
-/*selector de id se identifica con #portafolio*/
-/*se pueden convinar los tipos de selectores, tambien hay selectores de atributos*/
+h1, h2, h3, h4, h5,h5{
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: normal;
+    /*font-style: italic;*/
+}
+
+h1{
+    font-size: 40px;
+    line-height: 1.5;
+    letter-spacing: -.2px;
+    /*text-transform: uppercase;
+    text-decoration: dashed;*/
+}
